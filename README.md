@@ -9,10 +9,10 @@
 ### :man_technologist: About Me :
 An Indian High School guy who loves to code and learn new stuff related to Computer Science.
 - :student: Currently Preparing for Entrance Examination
-- :seedling: In free time learn new languages, frameworks and tools. 
+- :seedling: In free time, I learn new languages, frameworks and tools. 
 - :mailbox:How to reach me: You can't I don't use any kind of social media shit.
 - :rose: I follow the KISS(Keep it simple stupid) principle 
-- :heart_on_fire: I don't Use VS code:poop: , Emacs and Vim Lover
+- :heart_on_fire: I don't Use VS code :poop: , Emacs and Vim Lover
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
