@@ -1,7 +1,7 @@
 # Sigma-Coder777
 
 <div align="center">
-  <img src="https://media.tenor.com/2Y3599oi0v4AAAAd/boruto-naruto.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/NNewSe8zGT44Qi32n0/giphy.gif"width="600" height="300"/>
 </div>
 
 ---
@@ -12,7 +12,7 @@ An Indian High School guy who loves to code and learn new stuff related to Compu
 - :seedling: In free time learn new languages, frameworks and tools. 
 - :mailbox:How to reach me: You can't I don't use any kind of social media shit.
 - :rose: I follow the KISS(Keep it simple stupid) principle 
-- >_ I don't Use VS code Emacs and VIm Love <3
+- :heart_on_fire: I don't Use VS code Emacs and Vim Lover
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
